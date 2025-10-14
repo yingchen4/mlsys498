@@ -1,6 +1,6 @@
 ###Q2: Parameter Server###
 ###please implement PS method, using  parameter update&optimizor states all be held in rank0###
-
+# Ying Chen - yingc7
 from torch._utils import _flatten_dense_tensors, _unflatten_dense_tensors
 import torch
 import torch.distributed as dist
